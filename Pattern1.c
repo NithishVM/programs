@@ -16,7 +16,6 @@ int main()
            printf("*");  
        }  
        m--;  
-     
       printf("\n");  
     }  
     return 0;  
